@@ -1,0 +1,18 @@
+{
+    "books": [
+        {
+            "author": "J.R.R. Tolkien",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.jpg/220px-The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.jpg",
+            "id": 1,
+            "title": "The Lord of the Rings",
+            "year": "1954"
+        },
+        {
+            "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein",
+            "cover": " https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Data-structures-and-algorithms.jpg/220px-Data-structures-and-algorithms.jpg",
+            "id": 2,
+            "title": "Data Structures and Algorithms",
+            "year": "2008"
+        }
+    ]
+}
